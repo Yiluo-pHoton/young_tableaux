@@ -1,0 +1,38 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{Fulton1997}
+William Fulton, \emph{Young tableaux - with applications to representation
+  theory and geometry}, Cambridge University Press, 1997.
+
+\bibitem{Knuth2011}
+Donald~E. Knuth, \emph{The art of computer programming}, vol.~3, Addison-Wesley
+  Publishing Company, 2011.
+
+\bibitem{Ramond2010}
+Pierre Ramond, \emph{Group theory-a physicist's survey}, first ed., Cambridge
+  University Press, 2010.
+
+\bibitem{Sakurai1994}
+J.~J. Sakurai, \emph{Modern quantum mechanics (revised edition)},
+  Addison-Wesley Publishing Company, 1994.
+
+\bibitem{Cormen2009}
+Ronald L. Rivest Clifford~Stein Thomas H.~Cormen, Charles E.~Leiserson,
+  \emph{Introduction to algorithms}, third ed., MIT Press, 2009.
+
+\bibitem{Yong2007}
+Alexander Yong, \emph{What is... a young tableaux?}, Notices of the AMS
+  \textbf{54} (2007), no.~2.
+
+\bibitem{Zhao2008}
+Yufei Zhao, \emph{Young tableaux and the representations of the symmetric
+  group}, Harvard College Mathematics Review 2 (2008), 33--45.
+
+\end{thebibliography}
